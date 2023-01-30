@@ -26,6 +26,4 @@
 
 ### Project Images
 
-<div>
-  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQG-l00HLgy8lg/feedshare-shrink_800/0/1662507687237?e=1665619200&v=beta&t=Ssbs0y-fShBnZtIguvYdfDzCyISjmAZPtfUXG2lPDG8" width=500/>
-</div>
+![Project Image](/src/assets/project/image0.png)
